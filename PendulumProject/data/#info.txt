@@ -1,0 +1,37 @@
+Set 1:
+D = 5.0 +/- 0.2 cm; Height of stand from base to clamp = 55.2 +/- 0.1 cm
+Short Data:
+-	D1: M = 50.0 +/- 0.1g, Theta = -30 +/- 2 deg, L = 27.5
+-	D2: M = 50.0 +/- 0.1g, Theta = -45 +/- 2 deg, L = 27.5
+-	D3: M = 50.0 +/- 0.1g, Theta = -75 +/- 2 deg, L = 27.5
+-	D4: M = 50.0 +/- 0.1g, Theta = +30 +/- 2 deg, L = 27.5
+-	D5: M = 50.0 +/- 0.1g, Theta = +45 +/- 2 deg, L = 27.5
+-	D6: M = 50.0 +/- 0.1g, Theta = +75 +/- 2 deg, L = 27.5
+
+Set 2:
+D = 5.0 +/- 0.2 cm; Height of stand from base to clamp = 61.2 +/- 0.1 cm
+Short Time Data
+-	V1: M =0 +/- 2 deg, L = 27.5
+-	V6: M = 100.0 +/- 0.1g, Theta = +45 +/- 2 deg, L = 27.5
+-	V7: M = 100.0 +/- 0.1g, Theta = +60 +/- 2 deg, L = 27.5
+-	V8: M = 100.0 +/ 200.0 +/- 0.1g, Theta = +45 +/- 2 deg, L = 27.5
+-	V2: M = 200.0 +/- 0.1g, Theta =  -60 +/- 2 deg, L = 27.5
+-	V3: M = 200.0 +/- 0.1g, Theta = +60 +/- 2 deg, L = 27.5
+-	V4: M = 200.0 +/- 0.1g, Theta =  -45 +/- 2 deg, L = 27.5
+Long Time Data
+-	V5: M = 100.0 +/- 0.1g, Theta = +3- 0.1g, Theta =  -75 +/- 2 deg, L = 27.5
+-	V9: M = 100.0 +/- 0.1g, Theta = +45 +/- 2 deg, L = 22.5
+-	V10: M = 100.0 +/- 0.1g, Theta = +45 +/- 2 deg, L = 32.5
+
+Set 3:
+Additional Data from Tosin & Anushka (if needed; do mention in de report): 
+-	T50:  M = 50.0 +/- 0.1g, 	Theta = -90 +/- 5 deg
+-	T100: M = 100.0 +/- 0.1g, 	Theta = -90 +/- 5 deg
+-	T200: M = 200.0 +/- 0.1g, 	Theta = -90 +/- 5 deg
+-	T500: M = 500.4 +/- 0.1g, 	Theta = -90 +/- 5 deg
+-	L1:   M = 100.0 +/- 0.1g, 	Theta = -90 +/- 5 deg
+-	L2:   M = 100.0 +/- 0.1g, 	Theta = -90 +/- 5 deg
+-	L3:   M = 100.0 +/- 0.1g, 	Theta = -90 +/- 5 deg
+L1 = 31.0 +/1 0.5 cm
+L2 = 34.0 +/1 0.5 cm
+L3 = 37.0 +/1 0.5 cm
